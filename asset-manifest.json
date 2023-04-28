@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HashTag/static/css/main.a169449d.css",
+    "main.js": "/HashTag/static/js/main.cee6065c.js",
+    "index.html": "/HashTag/index.html",
+    "main.a169449d.css.map": "/HashTag/static/css/main.a169449d.css.map",
+    "main.cee6065c.js.map": "/HashTag/static/js/main.cee6065c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a169449d.css",
+    "static/js/main.cee6065c.js"
+  ]
+}
